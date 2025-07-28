@@ -1,0 +1,6 @@
+/home/idveiwd-07/lbfgs_autodiff/build/CMakeFiles/rebuild_cache.dir
+/home/idveiwd-07/lbfgs_autodiff/build/CMakeFiles/exponential_exec.dir
+/home/idveiwd-07/lbfgs_autodiff/build/CMakeFiles/ellipse_exec.dir
+/home/idveiwd-07/lbfgs_autodiff/build/CMakeFiles/rosenbrock_exec.dir
+/home/idveiwd-07/lbfgs_autodiff/build/CMakeFiles/edit_cache.dir
+/home/idveiwd-07/lbfgs_autodiff/build/CMakeFiles/quadratic_exec.dir
